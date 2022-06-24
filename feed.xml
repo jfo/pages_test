@@ -1,0 +1,25 @@
+<rss version="2.0">
+  <channel>
+    <title>blog.jfo.click</title>
+    <description>Recent content on blog.jfo.click</description>
+    <lastBuildDate>Fri Jun 24 2022 11:18:02 GMT+0200 (Central European Summer Time)</lastBuildDate>
+    <item>
+      <title>Hello &quot;Hello world!&quot;</title>
+      <link>https://blog.jfo.click/hello-hello-world</link>
+      <guid isPermaLink="true">https://blog.jfo.clickhello-hello-world</guid>
+      <pubDate>August 15, 2020</pubDate>
+    </item>
+    <item>
+      <title>Hott reloading</title>
+      <link>https://blog.jfo.click/hott-reloading</link>
+      <guid isPermaLink="true">https://blog.jfo.clickhott-reloading</guid>
+      <pubDate>February 15, 2020</pubDate>
+    </item>
+    <item>
+      <title>WebAssembly sections, part 2</title>
+      <link>https://blog.jfo.click/web-assembly-sections-part-2</link>
+      <guid isPermaLink="true">https://blog.jfo.clickweb-assembly-sections-part-2</guid>
+      <pubDate>August 29, 2019</pubDate>
+    </item>
+  </channel>
+</rss>
